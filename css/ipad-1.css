@@ -1,0 +1,334 @@
+/* screen - ipad-1 */
+
+.ipad-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1024px;
+  overflow: hidden;
+  width: 768px;
+}
+
+.ipad-1 .x7-e1-cab37-32-c7-482 {
+  height: 1579px;
+  left: -952px;
+  object-fit: cover;
+  position: fixed;
+  top: -282px;
+  width: 2673px;
+  z-index: 1;
+}
+
+.ipad-1 .overlap-group1 {
+  height: 1733px;
+  margin-left: -488px;
+  margin-top: -466.43px;
+  position: relative;
+  width: 1256px;
+  z-index: 2;
+}
+
+.ipad-1 .girl {
+  height: 1231px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1253px;
+}
+
+.ipad-1 .dethcoasfghgfshfdsgh {
+  height: 1098px;
+  left: 488px;
+  object-fit: cover;
+  position: absolute;
+  top: 635px;
+  width: 768px;
+}
+
+.ipad-1 .dethcoastlogo {
+  height: 267px;
+  left: 686px;
+  object-fit: cover;
+  position: absolute;
+  top: 502px;
+  width: 373px;
+}
+
+.ipad-1 .icons8-bandcamp-480-1 {
+  cursor: pointer;
+  height: 106px;
+  left: 637px;
+  object-fit: cover;
+  position: absolute;
+  top: 701px;
+  transition: all 0.2s ease;
+  width: 106px;
+}
+
+.ipad-1 .icons8-bandcamp-480-1:hover {
+  transform: scale(1.1);
+}
+
+.ipad-1 .icons8-spotify-500 {
+  cursor: pointer;
+  height: 93px;
+  left: 769px;
+  object-fit: cover;
+  position: absolute;
+  top: 707px;
+  transition: all 0.2s ease;
+  width: 94px;
+}
+
+.ipad-1 .icons8-spotify-500:hover {
+  transform: scale(1.1);
+}
+
+.ipad-1 .icons8-music-500 {
+  border-radius: 8px;
+  cursor: pointer;
+  height: 93px;
+  left: 899px;
+  object-fit: cover;
+  position: absolute;
+  top: 707px;
+  transition: all 0.2s ease;
+  width: 93px;
+}
+
+.ipad-1 .icons8-music-500:hover {
+  transform: scale(1.1);
+}
+
+.ipad-1 .soundcloud {
+  cursor: pointer;
+  height: 90px;
+  left: 1018px;
+  object-fit: cover;
+  position: absolute;
+  top: 713px;
+  transition: all 0.2s ease;
+  width: 89px;
+}
+
+.ipad-1 .soundcloud:hover {
+  transform: scale(1.1);
+}
+
+.ipad-1 .instagram {
+  cursor: pointer;
+  height: 92px;
+  left: 700px;
+  object-fit: cover;
+  position: absolute;
+  top: 795px;
+  transition: all 0.2s ease;
+  width: 92px;
+}
+
+.ipad-1 .instagram:hover {
+  transform: scale(1.1);
+}
+
+.ipad-1 .tiktok {
+  cursor: pointer;
+  height: 88px;
+  left: 832px;
+  object-fit: cover;
+  position: absolute;
+  top: 799px;
+  transition: all 0.2s ease;
+  width: 88px;
+}
+
+.ipad-1 .tiktok:hover {
+  transform: scale(1.1);
+}
+
+.ipad-1 .twitter {
+  cursor: pointer;
+  height: 90px;
+  left: 960px;
+  object-fit: cover;
+  position: absolute;
+  top: 797px;
+  transition: all 0.2s ease;
+  width: 90px;
+}
+
+.ipad-1 .twitter:hover {
+  transform: scale(1.1);
+}
+
+.ipad-1 .copyright {
+  left: 810px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 1470px;
+  white-space: nowrap;
+}
+
+.ipad-1 .group-31 {
+  cursor: pointer;
+  display: flex;
+  height: 131px;
+  left: 614px;
+  position: absolute;
+  top: 951px;
+  transition: all 0.2s ease;
+  width: 517px;
+}
+
+.ipad-1 .group-31:hover {
+  transform: scale(1.1);
+}
+
+.ipad-1 .group-7 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  width: 517.06px;
+}
+
+.ipad-1 .overlap-group {
+  height: 131px;
+  margin-top: 0;
+  position: relative;
+  width: 517px;
+}
+
+.ipad-1 .path {
+  height: 113px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 517px;
+}
+
+.ipad-1 .group-6 {
+  display: flex;
+  height: 117px;
+  left: 167px;
+  position: absolute;
+  top: 14px;
+  width: 184px;
+}
+
+.ipad-1 .group {
+  display: flex;
+  flex: 1;
+  width: 183.55px;
+}
+
+.ipad-1 .group-1-1 {
+  flex: 1;
+  margin-left: 0;
+  margin-right: 0;
+  object-fit: cover;
+  width: 186px;
+}
+
+.ipad-1 .group-32 {
+  cursor: pointer;
+  display: flex;
+  height: 131px;
+  left: 614px;
+  position: absolute;
+  top: 1289px;
+  transition: all 0.2s ease;
+  width: 517px;
+}
+
+.ipad-1 .group-32:hover {
+  transform: scale(1.1);
+}
+
+.ipad-1 .group-15 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  width: 517.06px;
+}
+
+.ipad-1 .overlap-group-1 {
+  height: 131px;
+  position: relative;
+  width: 517px;
+}
+
+.ipad-1 .group-14 {
+  display: flex;
+  height: 117px;
+  left: 92px;
+  position: absolute;
+  top: 14px;
+  width: 333px;
+}
+
+.ipad-1 .group-1 {
+  display: flex;
+  flex: 1;
+  width: 332.71px;
+}
+
+.ipad-1 .group-9 {
+  flex: 1;
+  margin-left: 0;
+  margin-right: 0;
+  object-fit: cover;
+  width: 335px;
+}
+
+.ipad-1 .group-33 {
+  cursor: pointer;
+  display: flex;
+  height: 132px;
+  left: 616px;
+  position: absolute;
+  top: 1119px;
+  transition: all 0.2s ease;
+  width: 522px;
+}
+
+.ipad-1 .group-33:hover {
+  transform: scale(1.1);
+}
+
+.ipad-1 .group-23 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  padding: 0 0.0px;
+  width: 522.45px;
+}
+
+.ipad-1 .overlap-group-2 {
+  height: 132px;
+  margin-top: 0;
+  position: relative;
+  width: 522px;
+}
+
+.ipad-1 .path-3 {
+  height: 114px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 522px;
+}
+
+.ipad-1 .group-22 {
+  background-image: url(../img/group-17-3@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 118px;
+  left: 129px;
+  position: absolute;
+  top: 14px;
+  width: 274px;
+}
